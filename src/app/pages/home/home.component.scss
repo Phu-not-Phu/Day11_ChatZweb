@@ -1,0 +1,12 @@
+.container {
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+  width: 100%;
+}
+
+.divide {
+  display: grid;
+  grid-template-columns: 0.2fr 0.8fr;
+  gap: 30px;
+}
